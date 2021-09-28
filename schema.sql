@@ -9,3 +9,7 @@ CREATE TABLE animals (
   weight_kg DECIMAL(10, 2),
   PRIMARY KEY(id)
 );
+
+/*ADD NEW COLLUM species*/
+
+ALTER TABLE animals ADD species VARCHAR(50);
