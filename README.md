@@ -17,6 +17,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [GitHub](https://github.com/GuilhermeGiachellin)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-giachellin-2599771b9/)
 
+👤 **Diego Solis**
+
+- [GitHub](https://github.com/disc3110)
+- [LinkedIn](https://www.linkedin.com/in/diego-solis-cuevas/)
+
+👤 **Arthur Guzman**
+
+- [GitHub](https://github.com/ArthurGC)
+- [LinkedIn](https://www.linkedin.com/in/alxguzmanc/)
 
 ## 🤝 Contributing
 
